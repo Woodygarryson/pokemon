@@ -1,0 +1,48 @@
+.container {
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(64, 190, 240); */
+  background-image: url('img/header.png');
+  background-size: cover;
+  border-radius: 100px;
+}
+
+.content-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.form {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+.catImg {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.input {
+  margin-top: 20px;
+}
+
+body {
+  background-image: url('img/IMG_2191.JPG');
+  /* background: no-repeat center center fixed; */
+  background-size: cover;
+}
+
+.imgDiv {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
